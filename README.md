@@ -1,0 +1,1 @@
+Initialized a project for Semester 8 using ASP.NET Core Web API, setting up the foundational architecture, configuring necessary dependencies, and preparing the environment for further development.
